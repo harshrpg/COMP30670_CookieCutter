@@ -8,5 +8,6 @@ setup(name="systeminfo",
       author_email="harsh.gupta@ucdconnect.ie",
       license="GPL3",
       packages=['systeminfo'],
+      py_modules=['systeminfo.main'],
       entry_points={
           'console_scripts':['comp30670_systeminfo=systeminfo.main:main']})
