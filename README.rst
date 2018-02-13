@@ -1,0 +1,1 @@
+This is system information python module built with CookieCutter template
