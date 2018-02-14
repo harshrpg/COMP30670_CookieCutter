@@ -10,4 +10,4 @@ setup(name="systeminfo",
       package_dir={'systeminfo':'systeminfo'},
       packages=['systeminfo'],
       entry_points={
-          'console_scripts':['comp30670_systeminfo=systeminfo.main:main']})
+          'console_scripts':['comp30670_systeminfo=systeminfo.sysinfo:get_platform_info']})
