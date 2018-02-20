@@ -12,6 +12,6 @@ This is a private package that gives the user the information of the operating s
 	
 	>> import sysinfo
 
-4. Run the command:
+4. Run the command::
 
 	>> sysinfo.get_platform_info()
