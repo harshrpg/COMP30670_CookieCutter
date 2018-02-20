@@ -1,4 +1,4 @@
-System Information using Flask
+System Information
 ===============================
 
 This is a private package that gives the user the information of the operating system it is installed in. To use this application simply follow the following steps:
